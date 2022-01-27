@@ -1,1 +1,2 @@
 I'm writing a new message.  I've edited the file.
+I'm making some additional changes for the assignment.
