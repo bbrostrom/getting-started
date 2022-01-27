@@ -1,1 +1,3 @@
 I'm writing a new message.  I've edited the file.
+
+I've made a different edit on my PC.
